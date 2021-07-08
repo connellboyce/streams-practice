@@ -1,4 +1,4 @@
-package com.connellboyce.streamspractice.practices;
+package com.connellboyce.streamspractice.creation;
 
 import java.util.Arrays;
 import java.util.stream.Stream;
